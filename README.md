@@ -1,1 +1,1 @@
-# swp-util
+# Smart Web Products Library : Utils

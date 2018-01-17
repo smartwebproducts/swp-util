@@ -1,0 +1,15 @@
+{
+    "name": "smartwebproducts/swp-util",
+    "description": "Smart Web Products Library : Util Classes",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jeroen Keppens",
+            "email": "jeroen@amazium.com"
+        }
+    ],
+    "require": {}
+}
