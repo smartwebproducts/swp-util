@@ -11,5 +11,10 @@
             "email": "jeroen@amazium.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Swp\\Util\\" : "src/"
+        }
+    }
 }
